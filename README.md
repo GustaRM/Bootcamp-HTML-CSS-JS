@@ -3,3 +3,5 @@ Bootcamp da empresa CodiAcademy no qual foram recriados a interface dos seguinte
  
 
 <img src="./Dia-3-Netflix/imagens/resultado-netflix.jpg" alt=""/>
+<img src="./Dia-2-Twitter/resultado-twitter.jpg" alt=""/>
+<img src="./Dia-1-Google/imagens/resultado-google.jpg" alt=""/>
